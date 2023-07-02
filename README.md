@@ -15,6 +15,6 @@ Feature Name Description
 * Unemployment - Unemployment Rate
 
 ## Tasks to be performed:
-> Using the dataset, come up with useful insights that can be used by each of the stores to improve in various areas.
+> 1. Using the dataset, come up with useful insights that can be used by each of the stores to improve in various areas.
 
-> Forecast the sales for each store for the next 12 weeks.
+> 2. Forecast the sales for each store for the next 12 weeks.
